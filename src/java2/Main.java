@@ -2,7 +2,7 @@ package java2;
 public class Main {
     public static void main(String[] args) {
         afis();
-        System.out.println("Adunarea este: " + adunare(4, 6));
+        System.out.println("Adunarea este: \n" + adunare(4, 6));
         System.out.println("Scaderea este: " + scadere((short) 7, (short) 8));
         System.out.println("Inmultirea este: " + inmultire((long) 7, (long) 8));
         System.out.println("Impartirea este: " + impartire(9d, 2d));

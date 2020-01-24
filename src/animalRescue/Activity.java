@@ -1,5 +1,5 @@
 package animalRescue;
 
 public class Activity {
-    String name;
+     String name;
 }
