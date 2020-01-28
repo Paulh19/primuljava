@@ -144,7 +144,7 @@ public class LogicalOPWhile {
             counter++;
         }
     }
-    public void cozaLozaWozaWithCase()
+   /* public void cozaLozaWozaWithCase()
             //nu merge si imi zice:boolean cannot be converted to int
     {
         int counter=1;
@@ -167,5 +167,5 @@ public class LogicalOPWhile {
             }
             counter++;
         }
-    }
+    }*/
 }

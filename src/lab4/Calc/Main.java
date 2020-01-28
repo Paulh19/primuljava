@@ -25,6 +25,6 @@ public class Main {
     op.primele20Fibonacci();
     System.out.println();
     op.CozaLozaWoza();
-    op.cozaLozaWozaWithCase();
+   // op.cozaLozaWozaWithCase();
     }
 }
