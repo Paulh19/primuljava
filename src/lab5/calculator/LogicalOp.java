@@ -185,6 +185,7 @@ public class LogicalOp {
            Se mai parcurge odata sirul si se afiseaza cea mai mica valoare.
          */
 
+
     }
     public int [] copyArray (int [] array, int [] anotherArray){
         if (array.length<anotherArray.length){
