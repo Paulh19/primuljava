@@ -53,6 +53,5 @@ public class Main {
         System.out.println("The array after copy");
         int bb[]=op.copyArray(secondArray, arr);
         op.printArray(bb);
-
     }
 }
