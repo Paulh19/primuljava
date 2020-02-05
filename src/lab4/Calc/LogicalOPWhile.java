@@ -119,7 +119,7 @@ public class LogicalOPWhile {
     }
 
     public void CozaLozaWoza() {
-        int counter = 1;
+int counter=0;
         while (counter <= 110) {
             if ((counter % 3 == 0) && (counter % 5 == 0) && (counter % 7 == 0)) {
                 System.out.print("CozaLozaWoza ");
@@ -144,13 +144,14 @@ public class LogicalOPWhile {
             counter++;
         }
     }
-   /* public void cozaLozaWozaWithCase()
+    /*public void cozaLozaWozaWithCase()
             //nu merge si imi zice:boolean cannot be converted to int
     {
         int counter=1;
         while (counter<=35)
         {
             switch (counter)
+                    counter == true;
             {
                 case ((counter % 3 == 0) && (counter % 5 == 0) && (counter % 7 == 0)): System.out.print("CozaLozaWoza "); break;
                 case ((counter % 3 == 0) && (counter % 5 == 0)) : System.out.print("CozaLoza "); break;
