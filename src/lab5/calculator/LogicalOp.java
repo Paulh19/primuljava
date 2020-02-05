@@ -175,6 +175,8 @@ public class LogicalOp {
             }
         }
         return secondSmallest;
+
+
         /* Al doilea cel mai mic, se mai poate face si prin alte metode.
         1. Ordonarea sirului print-o bucla while si a variabila booleana care opreste bucla cand sirul este ordonat.
            Odata sirul ordonat se afiseaza a doua(sau penultima, depinde cum este ordonat sirul) variabila.
@@ -182,6 +184,7 @@ public class LogicalOp {
            Se elimina cea mai mica valoare  (se poate folosi removeNumberFromArray(int [] array, int number)).
            Se mai parcurge odata sirul si se afiseaza cea mai mica valoare.
          */
+
     }
     public int [] copyArray (int [] array, int [] anotherArray){
         if (array.length<anotherArray.length){
